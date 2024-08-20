@@ -20,3 +20,9 @@ password: Nagasai2003
 
 
 Now, 10 questions will be getting displayed !!
+
+
+
+.env File content below:
+
+JWT_SECRET="random_secret"
