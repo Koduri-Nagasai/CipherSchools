@@ -1,0 +1,22 @@
+Assignment of Full Stack Developer role
+
+Steps to Initialise:
+1. Download Zip and Extract and Open with VS code
+2. create 2 split terminals and in one terminal initialize the commands:
+3. cd client
+4. cd OA
+5. npm run dev
+<!  Opens localhost:5173 !>
+
+In another split terminal initialize the following commands:
+1. cd server
+2. npm run server
+<! DB Connected !>
+
+
+Now after doing these 2 steps carefully it will open localhost:5173 at there firstly login page will be opened if you wanted to write with your oun is and pass you have to first signup and then you can login with that or else try with the Id and Password that I have been provided below:
+user email: nagasaik62@gmail.com    
+password: Nagasai2003
+
+
+Now, 10 questions will be getting displayed !!
